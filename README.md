@@ -21,9 +21,10 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 ---
 
 ## ⭐ Featured Projects
-[![GEN AI](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=GEN-AI)](https://github.com/m4vic/GEN-AI)  
-[![ML Models](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=ML-models)](https://github.com/m4vic/ML-models)  
-[![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformers)](https://github.com/m4vic/Transformers)
+[![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformers)](https://github.com/m4vic/Transformer-101)
+[![ML Models](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=ML-models)](https://github.com/m4vic/ML-models)
+[![Analyze stocks using AI](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=GEN-AI)](https://github.com/m4vic/stock-analysis-tools-using-gemini-api-and-hugging-face-model)
+[![Natural Language stock screener](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=GEN-AI)](https://github.com/m4vic/NLPstockscreenerGPT)
 
 ---
 
