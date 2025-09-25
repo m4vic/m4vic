@@ -20,7 +20,7 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 ---
 
 ## ⭐ Featured Projects
-[![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformers-101)](https://github.com/m4vic/Transformer-101)
+[![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformer-101)](https://github.com/m4vic/Transformer-101)
 [![ML Models](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=ML-models)](https://github.com/m4vic/ML-models)
 [![Analyze stocks using AI](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=stock-analysis-tools-using-gemini-api-and-hugging-face-model
 )](https://github.com/m4vic/stock-analysis-tools-using-gemini-api-and-hugging-face-model)
