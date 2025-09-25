@@ -15,7 +15,6 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=m4vic&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4vic&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4vic&layout=compact)
 
 ---
