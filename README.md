@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanskar
+# 👋 Hi, I'm mavic
 
 I like to **build stuff** — from scratch, hands-on, and deeply technical.  
 Currently, I’m diving into **Transformers** with PyTorch and have built my own mini-GPT–style models (both encoder and decoder).  
