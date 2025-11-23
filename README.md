@@ -36,7 +36,7 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 ---
 
 ##Resource for you 
-[![Modern-enginner-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=modern-engineer-toolkit)](https://github.com/m4vic/modern-engineer-toolkit)
+[![Modern-enginner-toolkit](Link)](https://github.com/m4vic/modern-engineer-toolkit)
 
 
 ## 📬 Connect with Me
