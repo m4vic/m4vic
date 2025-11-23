@@ -20,7 +20,7 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 ---
 
 ## ⭐ Featured Projects
-[![TinyMobileLLM](https://github.com/m4vic/TinyMobileLLM)]
+[![TinyMobileLLM](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=TinyMobileLLM)](https://github.com/m4vic/TinyMobileLLM)
 [![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformer-101)](https://github.com/m4vic/Transformer-101)
 [![ML Models](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=ML-models)](https://github.com/m4vic/ML-models)
 [![Analyze stocks using AI](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=stock-analysis-tools-using-gemini-api-and-hugging-face-model
