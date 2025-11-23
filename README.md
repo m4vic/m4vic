@@ -28,7 +28,7 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 
 ---
 
-## 🌱 What I’m Learning
+## 🌱What I’m Learning
 - Building Transformers from scratch with PyTorch  
 - Training and evaluating mini-GPT style models  
 - Sharing models with the world via Hugging Face  
