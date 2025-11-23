@@ -36,7 +36,7 @@ You can even try my models directly on [🤗 Hugging Face](https://huggingface.c
 ---
 
 ## 🔗Resource for you 
-(https://github.com/m4vic/modern-engineer-toolkit)
+[Modern-enginner-toolkit](https://github.com/m4vic/modern-engineer-toolkit)
 
 
 ## 📬 Connect with Me
