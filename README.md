@@ -2,7 +2,7 @@
 
 I like to **build stuff** — from scratch, hands-on, and deeply technical.  
 
-**experimenting & vibe-coding phase** — building ideas fast, testing concepts, and understanding how modern AI actually works under the hood.
+**experimenting/building** — building ideas fast, testing concepts, and understanding how modern AI actually works under the hood.
 
 Right now I’m focused on:
 
