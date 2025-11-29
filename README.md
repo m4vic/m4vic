@@ -28,8 +28,6 @@ minimal, practical, and fully understood end-to-end.
 
 ## ⭐ Featured Projects
 
-[![TinyMobileLLM](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=TinyMobileLLM)](https://github.com/m4vic/TinyMobileLLM)  
-Running 0.5B–1B LLMs fully offline on older phones using GGUF + llama.cpp.
 
 [![Transformer-101](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformer-101)](https://github.com/m4vic/Transformer-101)  
 From-scratch Transformer implementations: attention, encoder, decoder, training loops.
