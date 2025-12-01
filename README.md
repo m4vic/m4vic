@@ -1,71 +1,33 @@
 # 👋 Hi, I'm mavic
 
-I like to **build stuff** — from scratch, hands-on, and deeply technical.  
+I like to **build stuff** — ideas, tools, systems, experiments.  
+Anything that mixes creativity, curiosity, and technology.
 
-**experimenting/building** — building ideas fast, testing concepts, and understanding how modern AI actually works under the hood.
+I'm the kind of person who learns by doing:  
+breaking things, rebuilding them, understanding how they work,  
+and then pushing them a little further than they were meant to go.
 
-Right now I’m focused on:
-
-- ✨ Experimenting with small LLMs (TinyMobileLLM — on-device AI)
-- 🔧 Implementing core Transformer architectures from scratch using PyTorch
-- 🧠 Exploring GenAI ideas and rapidly prototyping them
-- 🎥 Making simple, visual videos explaining concepts like attention, embeddings & tokenization
-- 🧪 Learning by building instead of only reading theory
-
-I love working on projects that are:
-minimal, practical, and fully understood end-to-end.
-
----
-
-## 🚀 Projects
-
-- 🔥 **GenAI Experiments** — fast prototypes & applied LLM ideas  
-- 🧠 **Custom ML Models** — built and trained from scratch  
-- ⚙️ **Transformers** — encoder/decoder internals in pure PyTorch  
-- 📱 **On-device AI** — running quantized LLMs on real smartphones  
+My interests blend together:
+- **AI** — Transformers, tiny LLMs, finetuning, on-device experiments  
+- **Engineering** — building things from scratch, both in software & (future) robotics  
+- **Creativity** — inventing ideas, prototyping fast, exploring new concepts  
+- **Philosophy & Reality** — how tech shapes the world, meaning, future, AGI  
+- **Future tech** — drones, exosuits, autonomous systems (my long-term dream)
 
 ---
 
-## ⭐ Featured Projects
-
-
-[![Transformer-101](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=Transformer-101)](https://github.com/m4vic/Transformer-101)  
-From-scratch Transformer implementations: attention, encoder, decoder, training loops.
-
-[![ML models](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=ML-models)](https://github.com/m4vic/ML-models)  
-My experiments with building and training ML models end-to-end.
-
-[![Stock Analysis Tools](https://github-readme-stats.vercel.app/api/pin/?username=m4vic&repo=stock-analysis-tools-using-gemini-api-and-hugging-face-model)](https://github.com/m4vic/stock-analysis-tools-using-gemini-api-and-hugging-face-model)  
-Applying AI to real-world financial data workflows.
+## 🔥 What I’m Doing Right Now
+- Experimenting with **tiny LLMs** on physical devices (TinyMobileLLM)  
+- Rebuilding **core Transformer internals** in PyTorch  
+- Exploring **GenAI ideas** through fast prototypes  
+- Creating **simple videos** explaining AI concepts  
+- Structuring my repos into labs (ml-labs, deep-learning-labs, experiments)  
+- Building a workflow that supports long-term goals in **robotics + AGI**
 
 ---
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=m4vic&color=blue)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4vic&layout=compact)
-
----
-
-## 🌱 What I’m Learning
-
-- Rebuilding Transformer internals with PyTorch  
-- Training and evaluating mini-GPT style models  
-- Efficient inference (quantization, GGUF, on-device LLMs)  
-- Sharing reproducible models & demos on Hugging Face  
-
----
-
-## 📚 Resource Hub  
-A curated toolkit containing resources for ML, DL, GenAI, robotics, and more:  
-
-🔗 **Modern Engineer Toolkit**  
-https://github.com/m4vic/modern-engineer-toolkit  
-
----
-
-## 📬 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskarmaheshwari1/)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/sanskarjajoo13)  
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?logo=huggingface&logoColor=white)](https://huggingface.co/m4vic)
+## 🌱 What I Care About
+- Understanding things **end-to-end**  
+- Making concepts **simple, visual, practical**  
+- Staying **curious**  
+- Creating things that feel like the **future**  
