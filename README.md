@@ -26,10 +26,10 @@ And for the first time, I realized:
 Even if I used GPT to assist, I *understood* backend, frontend, APIs, models —  
 and it opened the door.
 
-After my exams ended on **27 March**,  
+After my exams ended on **27 March 2025**,  
 I started learning seriously — from absolute zero.
 
-Since then, I’ve invested **700+ hours** into:
+Since then, I’ve invested **800+ hours** into:
 - Python  
 - Machine Learning  
 - Deep Learning  
