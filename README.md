@@ -1,6 +1,6 @@
 # 👋 Hi, I'm mavic
 
-I like to **build stuff** -  ideas, tools, systems, experiments.  
+I like to **build stuff** - ideas, tools, systems, experiments.  
 Anything that mixes creativity, curiosity, and technology.
 
 I've always been this way.  
