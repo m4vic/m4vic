@@ -14,9 +14,3 @@ Anything that mixes creativity, curiosity, and technology.
 - Preparing long-term for **robotics & AGI**  my original childhood dream
 
 ---
-
-## 🌱 What I Care About
-- Learning by building  
-- Curiosity over theory  
-- Making things simple and visual  
-- Creating things that feel like the future  
