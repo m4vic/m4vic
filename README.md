@@ -1,6 +1,2 @@
-
-ideas, tools, systems, experiments.  
-Anything that mixes creativity, curiosity, and technology.
-
-
-
+independent researcher 7000+ downloads on hf 
+Ai security and autonomous systems
